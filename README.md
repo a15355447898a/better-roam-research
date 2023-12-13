@@ -14,15 +14,15 @@
 
 # 预览
 
-![](/assets/预览图.png)
+![](./assets/预览图.png)
 
 这个主题改进了 Roam 的许多方面,比如看板:
 
-![](/assets/kanban.png)
+![](./assets/kanban.png)
 
 这里没有主题,供参考:
 
-![](/assets/kanban-original.png)
+![](./assets/kanban-original.png)
 
 下面是对原主题的修改:
 
