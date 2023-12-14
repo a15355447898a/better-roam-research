@@ -324,6 +324,26 @@ div.roam-article .rm-level3 span>a.rm-alias--external:after {
     height: 16px;
 }
 
+/* Headings */
+
+.rm-level1, .rm-heading-level-1>.rm-block__self .rm-block__input{
+    color: #FF9800;
+    font-size: 24px !important;
+    font-weight: bold;
+}
+
+.rm-level2, .rm-heading-level-2>.rm-block__self .rm-block__input{
+    color: #673AB7;
+    font-size: 20px !important;
+    font-weight: bold;
+}
+
+.rm-level3, .rm-heading-level-3>.rm-block__self .rm-block__input{
+    color: #2196F3;
+    font-size: 18px !important;
+    font-weight: bold;
+}
+
 .rm-inline-references {
     background-color: var(--secondary-background-color) !important;
     border-left-color: var(--c3) !important;

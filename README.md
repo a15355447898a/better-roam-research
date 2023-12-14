@@ -32,3 +32,10 @@
 * 设置标题居中并放大
 * 顶部适配 [Roam Tabs](https://github.com/dive2Pro/roam-tabs) 插件
 
+---
+
+2023/12/14更新
+
+添加功能:
+
+* 标题添加颜色着色
